@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f95b403e159fc79728f07cba32e69fb8"
+build_time: [1555259943, 132573000]
+inputs:
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Flix/AppDelegate.swift": [1555235253, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Flix/MovieViewController.swift": [1555257264, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Flix/MovieCell.swift": [1555254726, 0]

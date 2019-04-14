@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "670d6b936eb798ba53382e5cee1a3aed"
+build_time: [1555256093, 161608000]
+inputs:
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/AFIError.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/Image.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/ImageCache.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/ImageDownloader.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/ImageFilter.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1555256026, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Flix/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1555256026, 0]
